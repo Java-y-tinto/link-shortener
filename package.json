@@ -1,0 +1,16 @@
+{
+	"dependencies": {
+		"@types/express": "^5.0.0",
+		"dotenv": "^16.4.7",
+		"express": "^4.21.2",
+		"mongodb": "^6.13.1"
+	},
+	"devDependencies": {
+		"@types/node": "^22.13.5",
+		"tsx": "^4.19.3"
+	},
+	"scripts": {
+		"start": "tsx backend/src/index.ts",
+		"dev": "tsx watch backend/src/index.ts"
+	}
+}

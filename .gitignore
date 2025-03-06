@@ -58,3 +58,4 @@ baseline.json
 .angular/
 
 .vscode
+*.yaml

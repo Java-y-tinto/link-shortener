@@ -1,4 +1,5 @@
 .DS_STORE
+.env
 
 /dist/
 /bazel-out
@@ -56,3 +57,4 @@ baseline.json
 
 # Ignore cache created with the Angular CLI.
 .angular/
+.vscode
